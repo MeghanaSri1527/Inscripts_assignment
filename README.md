@@ -27,6 +27,6 @@ project/
 ├── index.css
 ├── main.tsx
 
-# Screenshots
+# Screenshot
 
 ![Screenshot (368)](https://github.com/user-attachments/assets/1f90115e-a24b-4ff3-bc2e-aa3586010e81)
